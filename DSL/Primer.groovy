@@ -4,7 +4,7 @@ pipeline {
 3
         registry = "victor09vizcarra/nodejsapp"
 4
-        registryCredential = 'docker-hb' 
+        registryCredential = 'docker-hub' 
 5
         dockerImage = '' 
 6
