@@ -35,3 +35,4 @@ sh "docker rmi $imagename:latest"
 }
 }
 }
+}
